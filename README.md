@@ -4,6 +4,6 @@ This project designs and implements a relational database for a music streaming 
 AI usage disclose:
 I used ChatGPT (GPT-5.2) as a development assistant to review and refine my UML diagram structure, helping me correct multiplicities, relationships, and overall model consistency before translating it into a relational schema. The model also assisted in generating sample test data and SQL table definitions, which I reviewed, adjusted, and validated to ensure they met the project requirements and normalization standards.
 
-uml diagram url:
+uml diagram url: https://lucid.app/lucidchart/c9bd40e4-83f2-448a-9769-c81f1e9cafdc/edit?invitationId=inv_4d8b1b3d-a69b-47f9-8abd-9f3148d1c77b&page=0_0#
 
 erd diagram url: https://lucid.app/lucidchart/2494d36e-d23b-486d-ba1d-4e3ead02742b/edit?invitationId=inv_3f3e7ebf-e861-43d4-977a-196e02c1bb15&page=0_0#
