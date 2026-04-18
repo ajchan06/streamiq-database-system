@@ -1,4 +1,4 @@
-# StreamIQ Project 2 – Music Streaming Database System
+# StreamIQ – Music Streaming Database System (Project 2)
 
 ## Overview
 StreamIQ is a relational database system designed for a music streaming platform. It models core entities such as users, artists, albums, songs, playlists, and listening history, while supporting analytics, recommendations, and royalty tracking.
